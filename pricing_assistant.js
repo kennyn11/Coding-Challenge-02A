@@ -1,6 +1,6 @@
 let productName = "White Tee"
-let costPerunit = 9.99
-let basePrice = 19.99
+let costPerunit = 9.98
+let basePrice = 19.98
 let discountRate = 0.20
 let salesTaxRate = 0.07
 let fixedMonthlyCosts = 4000
